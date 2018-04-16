@@ -11,13 +11,13 @@ public class ExercicioControleFluxo {
 
         double salario = 5001;
         if(salario < 1000){
-            System.out.println("Salário de " + salario + ", Imposto de 5%.");
+            System.out.println("Salário de " + salario + ", Imposto de 5%: " + salario * 0.05);
         } else if(salario >= 1000 && salario < 2000) {
-            System.out.println("Salário de " + salario + ", Imposto de 10%.");
+            System.out.println("Salário de " + salario + ", Imposto de 10%: " + salario * 0.10);
         } else if(salario >= 2000 && salario < 4000){
-            System.out.println("Salário de " + salario + ", Imposto de 15%.");
+            System.out.println("Salário de " + salario + ", Imposto de 15%: " + salario * 0.15);
         } else if (salario > 5000){
-            System.out.println("Salário de " + salario + ", Imposto de 20%.");
+            System.out.println("Salário de " + salario + ", Imposto de 20%: " + salario * 0.20);
         }
     }
 }
