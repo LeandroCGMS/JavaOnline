@@ -17,7 +17,7 @@ public class ExercicioControleFluxo {
         } else if(salario >= 2000 && salario < 4000){
             System.out.println("Salário de " + salario + ", Imposto de 15%: " + salario * 0.15);
         } else if (salario > 5000){
-            System.out.println("Salário de " + salario + ", Imposto de 20%: " + salario * 0.20);
+            System.out.println("Salário de " + salario + ", Imposto de 20%: " + salario * 0.20);//ok
         }
     }
 }
