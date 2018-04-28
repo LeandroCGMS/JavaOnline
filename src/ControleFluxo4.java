@@ -6,14 +6,17 @@ public class ControleFluxo4 {
             System.out.println(contador);
             contador++;
         }
-
+        contador = 0;
         do {
-            System.out.println("dentro do do while");
+            System.out.println("dentro do do while " + contador++);
             contador++;
         } while( contador < 10 );
 
         for( int i = 0; i < 10; i++ ) {
             System.out.println("o valor de i é: " + i);
+            if(i==5){
+                break;
+            }
         }
     }
 }
