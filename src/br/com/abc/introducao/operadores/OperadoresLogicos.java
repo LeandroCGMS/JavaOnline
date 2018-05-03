@@ -1,5 +1,5 @@
 package br.com.abc.introducao.operadores;
-
+//Criação de pacotes.
 public class OperadoresLogicos {
     public static void main(String[] args) {
         int idade = 18;
