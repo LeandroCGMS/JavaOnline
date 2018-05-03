@@ -1,3 +1,5 @@
+package br.com.abc.introducao;
+
 public class ControleFluxo6 {
     public static void main(String[] args) {
         //Dado um valor de um carro, descubra em quantas vezes ele pode ser parcelado

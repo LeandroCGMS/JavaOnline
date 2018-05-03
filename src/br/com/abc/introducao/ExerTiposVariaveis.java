@@ -1,3 +1,5 @@
+package br.com.abc.introducao;
+
 import java.util.Scanner;
 
 public class ExerTiposVariaveis {

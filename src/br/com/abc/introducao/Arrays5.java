@@ -1,3 +1,5 @@
+package br.com.abc.introducao;
+
 public class Arrays5 {
     public static void main(String[] args) {
         boolean bissexto = false;
