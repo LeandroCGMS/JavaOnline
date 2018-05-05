@@ -1,5 +1,7 @@
 package br.com.abc.javacore.introducaoclasses.classes;
 
+import java.math.BigInteger;
+
 public class Professor {
     private String nome;
     private String matricula;

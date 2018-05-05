@@ -16,8 +16,9 @@ public class ProfessorTest {
         prof.setMatricula(scan.nextLine());
         System.out.println("RG: ");
         prof.setRg(scan.nextLong());
-        System.out.println("CPF: ");
+        System.out.println("CPF:");
         prof.setCpf(scan.nextLong());
+
         System.out.println("Segue os dados do professor\n" + prof);
 
     }
