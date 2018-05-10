@@ -32,6 +32,10 @@ public class Estudante {
     public void imprimeDadosAluno() {
         System.out.println("Nome: " + this.getNome() + "\nIdade: " + this.getIdade() + "\nNotas: ");
         int i = 0;
+        if( notas == null) {
+            System.out.println("Aluno não possui notas.");
+            return;
+        }
         double somaNotas = 0;
         for (double n : notas) {
             somaNotas += n;
