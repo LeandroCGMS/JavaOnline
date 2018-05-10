@@ -10,6 +10,10 @@ public class CalculadoraTeste {
         calc.multiplicaDoisNumeros(55.5,5);
         System.out.println("Divisão de dois números: " + calc.divideDoisNumeros(20,0));
         calc.imprimeDoisNumerosDivididos(20,0);
+
+        int[] numeros = {1,2,3,4,5};
+        calc.somaArray(numeros);
+        calc.somaVarArgs(1,2,3,4,5  );
         System.out.println("Continuando a execução.");
     }
 }
