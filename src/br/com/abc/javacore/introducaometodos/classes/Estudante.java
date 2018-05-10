@@ -24,7 +24,6 @@ public class Estudante {
         if (idade < 0) {
             System.out.println("Digite um valor acima de 0.");
             this.setIdade(scan.nextInt());
-            if(this.idade < 0) this.setIdade(scan.nextInt());
             return;
         }
         this.idade = idade;
