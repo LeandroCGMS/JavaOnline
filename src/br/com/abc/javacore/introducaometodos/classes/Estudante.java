@@ -1,9 +1,12 @@
 package br.com.abc.javacore.introducaometodos.classes;
 
+import java.util.Scanner;
+
 public class Estudante {
     private String nome;
     private int idade;
     private double[] notas = new double[3];
+    Scanner scan = new Scanner(System.in);
 
     public String getNome() {
         return nome;
@@ -18,6 +21,12 @@ public class Estudante {
     }
 
     public void setIdade(int idade) {
+        if (idade < 0) {
+            System.out.println("Digite um valor acima de 0.");
+            this.setIdade(scan.nextInt());
+            if(this.idade < 0) this.setIdade(scan.nextInt());
+            return;
+        }
         this.idade = idade;
     }
 
@@ -32,7 +41,7 @@ public class Estudante {
     public void imprimeDadosAluno() {
         System.out.println("Nome: " + this.getNome() + "\nIdade: " + this.getIdade() + "\nNotas: ");
         int i = 0;
-        if( notas == null) {
+        if (notas == null) {
             System.out.println("Aluno não possui notas.");
             return;
         }
