@@ -6,6 +6,7 @@ public class Estudante {
     private String nome;
     private int idade;
     private double[] notas = new double[3];
+    private boolean aprovado;
     Scanner scan = new Scanner(System.in);
 
     public String getNome() {
@@ -54,12 +55,17 @@ public class Estudante {
         double media = somaNotas / 3;
         System.out.println("A média do(a) " + this.getNome() + " é " + media + ", portanto");
         if (somaNotas / 3 >= 6) {
+            this.aprovado = true;
             System.out.print(this.getNome() + " está Aprovado.");
         } else {
+            this.aprovado = false;
+
             System.out.print(this.getNome() + " está Reprovado.");
         }
     }
 
-
+    public boolean isAprovado() {
+        return aprovado;
+    }
 }
 

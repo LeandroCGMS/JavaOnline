@@ -19,7 +19,7 @@ public class EstudanteTest {
         notas[1] = scan.nextDouble();
         notas[2] = scan.nextDouble();
         estudante.setNotas(notas);
-        System.out.println("As informações entradas no sistema do estudante segue abaixo: ");
+        System.out.println("As informações entradas no sistema do estudante seguem abaixo: ");
         estudante.imprimeDadosAluno();
 
     }
