@@ -2,28 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc41eab2-04ff-47b1-be06-59c4f1e274fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Eblocodeinicializacao/classes/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Eblocodeinicializacao/test/ClienteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/ClienteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Departamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaoclasses/classes/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/classes/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaoclasses/classes/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/classes/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaoclasses/classes/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/classes/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaoclasses/test/CarroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/test/CarroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaoclasses/test/EstudanteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/test/EstudanteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaoclasses/test/ProfessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/test/ProfessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaometodos/classes/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/classes/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaometodos/classes/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/classes/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaometodos/classes/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/classes/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaometodos/teste/CalculadoraTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/CalculadoraTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaometodos/teste/EstudanteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/EstudanteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaometodos/teste/ParametrosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/ParametrosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/introducaometodos/teste/ProfessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/ProfessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/sobrecargaconstrutores/classes/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Dsobrecargaconstrutores/classes/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/sobrecargaconstrutores/test/EstudanteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Dsobrecargaconstrutores/test/EstudanteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/sobrecargametodos/classes/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Csobrecargametodos/classes/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/sobrecargametodos/test/FuncionarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Csobrecargametodos/test/FuncionarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,30 +21,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Carro.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java">
+      <file leaf-file-name="Pessoa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Pessoa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarroTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java">
+      <file leaf-file-name="Departamento.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Departamento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="45">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Endereco.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Endereco.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -109,8 +94,13 @@
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/blocodeinicializacao/test/ClienteTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/blocodeinicializacao/classes/Cliente.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Eblocodeinicializacao/classes/Cliente.java" />
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/ClienteTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Departamento.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Endereco.java" />
       </list>
     </option>
   </component>
@@ -127,8 +117,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,25 +157,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="abc" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Fmodificadorestatico" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Fmodificadorestatico" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Fmodificadorestatico" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,6 +167,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.abc.javacore.Fmodificadorestatico.test" />
+      <recent name="br.com.abc.javacore.Fmodificadorestatico.classes" />
       <recent name="br.com.abc.javacore.introducaometodos.classes" />
     </key>
   </component>
@@ -210,9 +184,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CarroTest">
+  <component name="RunManager" selected="Application.ClienteTest (1)">
     <configuration name="CarroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Fmodificadorestatico.test.CarroTest" />
+      <module name="JavaOnline" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.abc.javacore.Fmodificadorestatico.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ClienteTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Fmodificadorestatico.test.ClienteTest" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -310,15 +295,15 @@
     <list>
       <item itemvalue="Application.EstudanteTest" />
       <item itemvalue="Application.FuncionarioTest" />
-      <item itemvalue="Application.EstudanteTest (1)" />
       <item itemvalue="Application.ClienteTest" />
       <item itemvalue="Application.CarroTest" />
+      <item itemvalue="Application.ClienteTest (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClienteTest (1)" />
         <item itemvalue="Application.CarroTest" />
         <item itemvalue="Application.ClienteTest" />
-        <item itemvalue="Application.EstudanteTest (1)" />
         <item itemvalue="Application.FuncionarioTest" />
         <item itemvalue="Application.EstudanteTest" />
       </list>
@@ -468,11 +453,19 @@
       <option name="project" value="LOCAL" />
       <updated>1526258258980</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Exercícios.">
+      <created>1526344690434</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1526344690434</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1360" height="734" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -482,7 +475,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22977346" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3656958" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -510,11 +503,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Exercícios." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OperadoresLogicos.java" />
-    <entry file="file://$PROJECT_DIR$/src/OperadoresDeAtribuicao.java" />
-    <entry file="file://$PROJECT_DIR$/src/ControleFluxo1.java" />
-    <entry file="file://$PROJECT_DIR$/src/ControleFluxo2.java" />
-    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo.java" />
     <entry file="file://$PROJECT_DIR$/src/ImprimindoVariaveis.java" />
     <entry file="file://$PROJECT_DIR$/src/ExerTiposVariaveis.java" />
     <entry file="file://$PROJECT_DIR$/src/ExerRelatorioDois.java" />
@@ -612,13 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
-          <folding>
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#1318#1319#0" expanded="true" />
-            <element signature="e#1376#1377#0" expanded="true" />
-            <element signature="e#1426#1427#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,27 +637,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="210">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/ClienteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="225">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Departamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Endereco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
