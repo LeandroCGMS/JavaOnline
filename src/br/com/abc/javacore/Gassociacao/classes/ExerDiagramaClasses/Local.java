@@ -4,6 +4,14 @@ public class Local {
     private String rua;
     private String bairro;
 
+    public Local(String rua, String bairro) {
+        this.rua = rua;
+        this.bairro = bairro;
+    }
+
+    public Local() {
+    }
+
     public String getRua() {
         return rua;
     }
@@ -18,5 +26,13 @@ public class Local {
 
     public void setBairro(String bairro) {
         this.bairro = bairro;
+    }
+
+    @Override
+    public String toString() {
+        return "Local{" +
+                "rua='" + rua + '\'' +
+                ", bairro='" + bairro + '\'' +
+                '}';
     }
 }

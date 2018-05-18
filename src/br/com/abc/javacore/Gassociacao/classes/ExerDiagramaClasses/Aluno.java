@@ -1,10 +1,27 @@
 package br.com.abc.javacore.Gassociacao.classes.ExerDiagramaClasses;
 
+import java.util.Arrays;
+
 public class Aluno {
     private String nome;
     private int idade;
     private Professor[] professores;
     private Seminario seminario;
+
+    public Aluno(String nome, int idade, Professor[] professores, Seminario seminario) {
+        this.nome = nome;
+        this.idade = idade;
+        this.professores = professores;
+        this.seminario = seminario;
+    }
+
+    public Aluno(String nome, int idade){
+        this.nome = nome;
+        this.idade = idade;
+    }
+
+    public Aluno() {
+    }
 
     public Seminario getSeminario() {
         return seminario;
@@ -36,5 +53,15 @@ public class Aluno {
 
     public void setProfessores(Professor[] professores) {
         this.professores = professores;
+    }
+
+    @Override
+    public String toString() {
+        return "Aluno{" +
+                "nome='" + nome + '\'' +
+                ", idade=" + idade +
+                ", professores=" + Arrays.toString(professores) +
+                ", seminario=" + seminario +
+                '}';
     }
 }
