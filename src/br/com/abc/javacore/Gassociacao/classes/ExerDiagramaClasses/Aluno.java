@@ -15,7 +15,7 @@ public class Aluno {
         this.seminario = seminario;
     }
 
-    public Aluno(String nome, int idade){
+    public Aluno(String nome, int idade) {
         this.nome = nome;
         this.idade = idade;
     }
@@ -57,11 +57,16 @@ public class Aluno {
 
     @Override
     public String toString() {
-        return "Aluno{" +
+        String s = "";
+        s += "Aluno{" +
                 "nome='" + nome + '\'' +
-                ", idade=" + idade +
-                ", professores=" + Arrays.toString(professores) +
-                ", seminario=" + seminario +
-                '}';
+                ", idade=" + idade;
+        if (this.professores != null) {
+            s += ", professores=" + Arrays.toString(professores);
+        }
+        if (seminario != null) {
+            s += ", seminario=" + seminario;
+        }
+        return s;
     }
 }

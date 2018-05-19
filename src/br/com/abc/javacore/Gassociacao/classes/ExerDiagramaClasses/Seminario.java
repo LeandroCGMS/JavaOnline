@@ -56,11 +56,18 @@ public class Seminario {
 
     @Override
     public String toString() {
-        return "Seminario{" +
-                "titulo='" + titulo + '\'' +
-                ", local=" + local +
-                ", alunos=" + Arrays.toString(alunos) +
-                ", professor=" + professor +
-                '}';
+        String retorno = "";
+        retorno = "Seminario{" +
+                ", Título='" + titulo;
+        if(this.local != null){
+            retorno += ", Local: " + local;
+        }
+        if(this.alunos != null) {
+            retorno += ", Alunos=" + Arrays.toString(alunos);
+        }
+        if(this.professor != null){
+            retorno += ", Professor=" + professor;
+        }
+        return retorno;
     }
 }

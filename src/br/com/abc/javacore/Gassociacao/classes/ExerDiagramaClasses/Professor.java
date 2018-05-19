@@ -57,11 +57,19 @@ public class Professor {
 
     @Override
     public String toString() {
-        return "Professor{" +
+        String s = "";
+        s += "Professor{" +
                 "nome='" + nome + '\'' +
-                ", especialidade='" + especialidade + '\'' +
-                ", seminarios=" + Arrays.toString(seminarios) +
-                ", alunos=" + Arrays.toString(alunos) +
-                '}';
+                ", especialidade='" + especialidade;
+        if(this.seminarios != null){
+            s += ", especialidade='" + especialidade;
+        }
+        if(this.seminarios != null){
+            s += ", seminarios=" + Arrays.toString(seminarios);
+        }
+        if(this.alunos != null){
+            s += ", alunos=" + Arrays.toString(alunos);
+        }
+        return s;
     }
 }
