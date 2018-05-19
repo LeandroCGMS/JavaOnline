@@ -61,7 +61,7 @@ public class Aluno {
         s += "Aluno{" +
                 "nome='" + nome + '\'' +
                 ", idade=" + idade;
-        if (this.professores != null) {
+        if (this.professores != null && professores.length != 0) {
             s += ", professores=" + Arrays.toString(professores);
         }
         if (seminario != null) {

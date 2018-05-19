@@ -61,13 +61,11 @@ public class Professor {
         s += "Professor{" +
                 "nome='" + nome + '\'' +
                 ", especialidade='" + especialidade;
-        if(this.seminarios != null){
-            s += ", especialidade='" + especialidade;
-        }
-        if(this.seminarios != null){
+
+        if(this.seminarios != null && seminarios.length != 0){
             s += ", seminarios=" + Arrays.toString(seminarios);
         }
-        if(this.alunos != null){
+        if(this.alunos != null && alunos.length != 0){
             s += ", alunos=" + Arrays.toString(alunos);
         }
         return s;

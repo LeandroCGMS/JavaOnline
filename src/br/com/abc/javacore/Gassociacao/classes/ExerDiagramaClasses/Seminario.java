@@ -62,7 +62,7 @@ public class Seminario {
         if(this.local != null){
             retorno += ", Local: " + local;
         }
-        if(this.alunos != null) {
+        if(this.alunos != null && alunos.length != 0) {
             retorno += ", Alunos=" + Arrays.toString(alunos);
         }
         if(this.professor != null){
