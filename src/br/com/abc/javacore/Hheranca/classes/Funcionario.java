@@ -2,6 +2,22 @@ package br.com.abc.javacore.Hheranca.classes;
 
 public class Funcionario extends Pessoa {
     private double salario;
+    {
+        System.out.println("Dentro do bloco de inicialização de funcionário 1");
+    }
+
+    {
+        System.out.println("Dentro do bloco de inicialização de funcionário 2");
+    }
+
+    static {
+        System.out.println("Dentro do bloco de inicialização estático de funcionário");
+    }
+
+    public Funcionario(String nome) {
+        super(nome);
+        System.out.println("Dentro do construtor de Funcionario");
+    }
 
     public void imprime() {
         super.imprime();
