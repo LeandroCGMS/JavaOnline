@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc41eab2-04ff-47b1-be06-59c4f1e274fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClienteTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClienteTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="100" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+            <state relative-caret-position="135">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,14 +51,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TipoCliente.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TipoCliente.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="60">
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
               <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
                 <element signature="e#222#223#0" expanded="true" />
                 <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
                 <element signature="e#354#355#0" expanded="true" />
                 <element signature="e#381#382#0" expanded="true" />
               </folding>
@@ -131,9 +134,9 @@
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/test/CarroTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Subaru.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Carro.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" />
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java" />
       </list>
     </option>
   </component>
@@ -682,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527124049109</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Enumeração partes 1 e 2.">
+      <created>1527200504808</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1527200504809</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -728,10 +738,10 @@
     <MESSAGE value="Sequências de Inicializações de Blocos em superclasses e classes." />
     <MESSAGE value="Sobrescrita de métodos." />
     <MESSAGE value="Modificador Final." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificador Final." />
+    <MESSAGE value="Enumeração partes 1 e 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Enumeração partes 1 e 2." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ImprimindoVariaveis.java" />
     <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo2.java" />
     <entry file="file://$PROJECT_DIR$/src/ControleFluxo4.java" />
     <entry file="file://$PROJECT_DIR$/src/ControleFluxo3.java" />
@@ -966,6 +976,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -980,6 +999,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,19 +1047,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1054,10 +1070,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="100" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+        <state relative-caret-position="135">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/EnumeracaoUML.asta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
           </folding>
         </state>
       </provider>
