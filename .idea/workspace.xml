@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc41eab2-04ff-47b1-be06-59c4f1e274fd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/test/FuncionarioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,22 +21,8 @@
       <file leaf-file-name="Cliente.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="360">
               <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
-              <folding>
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#652#653#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -42,7 +30,7 @@
       <file leaf-file-name="ClienteTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="120">
               <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -51,20 +39,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TipoCliente.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TipoCliente.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Funcionario.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Funcionario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
               <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FuncionarioTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/test/FuncionarioTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vendedor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Vendedor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
                 <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gerente.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Gerente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,8 +120,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -86,10 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ControleFluxo2.java" />
-        <option value="$PROJECT_DIR$/src/ExercicioControleFluxo.java" />
-        <option value="$PROJECT_DIR$/src/ControleFluxo3.java" />
-        <option value="$PROJECT_DIR$/src/ExercicioControleFluxo2.java" />
         <option value="$PROJECT_DIR$/src/ControleFluxo4.java" />
         <option value="$PROJECT_DIR$/src/ExercicioControleFluxo3.java" />
         <option value="$PROJECT_DIR$/src/ControleFluxo5.java" />
@@ -137,6 +178,10 @@
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Gerente.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Funcionario.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Vendedor.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/test/FuncionarioTest.java" />
       </list>
     </option>
   </component>
@@ -152,7 +197,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,7 +231,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="abc" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Gassociacao" type="462c0819:PsiDirectoryNode" />
+              <item name="Lclassesabstratas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
@@ -192,24 +239,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="abc" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Gassociacao" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Hheranca" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Hheranca" type="462c0819:PsiDirectoryNode" />
+              <item name="Lclassesabstratas" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -218,93 +248,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="abc" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Hheranca" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Isobrescrita" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Isobrescrita" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Isobrescrita" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Jmodificadorfinal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Jmodificadorfinal" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Jmodificadorfinal" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Kenum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Kenum" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Kenum" type="462c0819:PsiDirectoryNode" />
+              <item name="Lclassesabstratas" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,18 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClienteTest">
-    <configuration name="AssociacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Gassociacao.test.AssociacaoTest" />
-      <module name="JavaOnline" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Gassociacao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.FuncionarioTest">
     <configuration name="CarroTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Jmodificadorfinal.test.CarroTest" />
       <module name="JavaOnline" />
@@ -359,6 +298,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.abc.javacore.Kenum.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FuncionarioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Lclassesabstratas.test.FuncionarioTest" />
+      <module name="JavaOnline" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.abc.javacore.Lclassesabstratas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,19 +377,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AssociacaoTest" />
       <item itemvalue="Application.HerancaTest" />
       <item itemvalue="Application.PessoaTest" />
       <item itemvalue="Application.CarroTest (1)" />
       <item itemvalue="Application.ClienteTest" />
+      <item itemvalue="Application.FuncionarioTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FuncionarioTest" />
         <item itemvalue="Application.ClienteTest" />
         <item itemvalue="Application.CarroTest (1)" />
         <item itemvalue="Application.PessoaTest" />
         <item itemvalue="Application.HerancaTest" />
-        <item itemvalue="Application.AssociacaoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -692,7 +642,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527200504809</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Enumeração partes 3.">
+      <created>1527203296488</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1527203296488</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Enumeração partes 3.">
+      <created>1527203432350</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1527203432350</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -706,24 +670,24 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36421725" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24632353" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32747602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32747602" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -739,12 +703,10 @@
     <MESSAGE value="Sobrescrita de métodos." />
     <MESSAGE value="Modificador Final." />
     <MESSAGE value="Enumeração partes 1 e 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Enumeração partes 1 e 2." />
+    <MESSAGE value="Enumeração partes 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Enumeração partes 3." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo2.java" />
-    <entry file="file://$PROJECT_DIR$/src/ControleFluxo4.java" />
-    <entry file="file://$PROJECT_DIR$/src/ControleFluxo3.java" />
     <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo.java" />
     <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo3.java" />
     <entry file="file://$PROJECT_DIR$/src/ControleFluxo5.java" />
@@ -1023,9 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,28 +1008,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="360">
           <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
-          <folding>
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="120">
           <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1078,22 +1023,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/EnumeracaoUML.asta">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Vendedor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/test/FuncionarioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
