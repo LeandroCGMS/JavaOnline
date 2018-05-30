@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc41eab2-04ff-47b1-be06-59c4f1e274fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/ArquivoDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/DatabaseDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/GenericDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/DAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/error/test/ErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/RelatorioPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/RelatorioPagamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/PolimorfismoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/PolimorfismoTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +41,7 @@
       <file leaf-file-name="PolimorfismoTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/PolimorfismoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="210">
               <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -54,19 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gerente.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/Gerente.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RelatorioPagamento.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/RelatorioPagamento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="390">
               <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
             </state>
           </provider>
@@ -84,11 +71,11 @@
       <file leaf-file-name="DatabaseDAOImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/DatabaseDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="60">
               <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
               <folding>
                 <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,24 +84,42 @@
       <file leaf-file-name="ArquivoDAOImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/ArquivoDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="75">
               <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
               <folding>
                 <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DAOTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DAOTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/DAOTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="120">
               <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/error/test/ErrorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RuntimeExceptionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -136,10 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/blocodeinicializacao/classes/Cliente.java" />
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Eblocodeinicializacao/classes/Cliente.java" />
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/ClienteTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Cliente.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Departamento.java" />
@@ -187,6 +188,10 @@
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/DatabaseDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/ArquivoDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/DAOTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/test/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/test/ErrorTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/error/test/ErrorTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java" />
       </list>
     </option>
   </component>
@@ -234,7 +239,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="abc" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Npolimorfismo" type="462c0819:PsiDirectoryNode" />
+              <item name="Oexception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
@@ -242,16 +247,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="abc" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Npolimorfismo" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Npolimorfismo" type="462c0819:PsiDirectoryNode" />
+              <item name="Oexception" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -284,18 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DAOTest">
-    <configuration name="ClienteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Kenum.test.ClienteTest" />
-      <module name="JavaOnline" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Kenum.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.RuntimeExceptionTest">
     <configuration name="DAOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Npolimorfismo.test.DAOTest" />
       <module name="JavaOnline" />
@@ -307,13 +292,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FuncionarioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Lclassesabstratas.test.FuncionarioTest" />
+    <configuration name="ErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Oexception.error.test.ErrorTest" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Lclassesabstratas.test.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.Oexception.error.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,6 +310,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.abc.javacore.Npolimorfismo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RuntimeExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Oexception.runtimeexception.test.RuntimeExceptionTest" />
+      <module name="JavaOnline" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.abc.javacore.Oexception.runtimeexception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,19 +378,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ClienteTest" />
-      <item itemvalue="Application.FuncionarioTest" />
       <item itemvalue="Application.TesteProduto" />
       <item itemvalue="Application.PolimorfismoTest" />
       <item itemvalue="Application.DAOTest" />
+      <item itemvalue="Application.ErrorTest" />
+      <item itemvalue="Application.RuntimeExceptionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuntimeExceptionTest" />
+        <item itemvalue="Application.ErrorTest" />
         <item itemvalue="Application.DAOTest" />
         <item itemvalue="Application.PolimorfismoTest" />
         <item itemvalue="Application.TesteProduto" />
-        <item itemvalue="Application.FuncionarioTest" />
-        <item itemvalue="Application.ClienteTest" />
       </list>
     </recent_temporary>
   </component>
@@ -696,26 +692,33 @@
       <option name="project" value="LOCAL" />
       <updated>1527471726954</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Polimorfismo, parte 3, casting de objetos.">
+      <created>1527553711023</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1527553711023</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1360" height="700" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32747602" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3631757" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3631757" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24632353" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24632353" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -728,6 +731,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32747602" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3260135" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -749,23 +753,10 @@
     <MESSAGE value="Interface, parte 1." />
     <MESSAGE value="Interface, parte 2." />
     <MESSAGE value="Polimorfismo, parte 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Polimorfismo, parte 2." />
+    <MESSAGE value="Polimorfismo, parte 3, casting de objetos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Polimorfismo, parte 3, casting de objetos." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Csobrecargametodos/classes/Funcionario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Csobrecargametodos/test/FuncionarioTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Eblocodeinicializacao/test/ClienteTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1065,7 +1056,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/PolimorfismoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="210">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1075,7 +1066,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/RelatorioPagamento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="390">
           <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
         </state>
       </provider>
@@ -1089,33 +1080,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/DatabaseDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="60">
           <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
           <folding>
             <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/ArquivoDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="75">
           <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
           <folding>
             <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/DAOTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="120">
           <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/error/test/ErrorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
