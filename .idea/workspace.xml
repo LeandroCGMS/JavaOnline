@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc41eab2-04ff-47b1-be06-59c4f1e274fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,7 +95,7 @@
       <file leaf-file-name="RuntimeExceptionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="225">
               <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
             </state>
           </provider>
@@ -105,8 +104,8 @@
       <file leaf-file-name="CheckedExceptionTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            <state relative-caret-position="60">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -198,7 +197,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,19 +239,11 @@
               <item name="Oexception" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Oexception" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -705,7 +695,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527689179554</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Exceptions, parte 3.">
+      <created>1527692785802</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1527692785802</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -726,7 +723,6 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24632353" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3260135" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -738,6 +734,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3260135" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -761,9 +758,20 @@
     <MESSAGE value="Polimorfismo, parte 2." />
     <MESSAGE value="Polimorfismo, parte 3, casting de objetos." />
     <MESSAGE value="Exceptions, parte 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions, parte 2." />
+    <MESSAGE value="Exceptions, parte 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions, parte 3." />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1033,10 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-          <folding>
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1103,9 +1107,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teste.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -1115,15 +1116,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="225">
           <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state relative-caret-position="60">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
