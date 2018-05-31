@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc41eab2-04ff-47b1-be06-59c4f1e274fd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,11 +101,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckedExceptionTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CheckedExceptionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="255">
+              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiplasRuntimeExceptionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Cliente.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Departamento.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Pessoa.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Endereco.java" />
@@ -181,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/error/test/ErrorTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java" />
       </list>
     </option>
   </component>
@@ -239,6 +251,15 @@
               <item name="Oexception" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="abc" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="Oexception" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -269,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckedExceptionTest">
+  <component name="RunManager" selected="Application.MultiplasRuntimeExceptionTest">
     <configuration name="CheckedExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Oexception.checkedexception.test.CheckedExceptionTest" />
       <module name="JavaOnline" />
@@ -303,13 +324,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PolimorfismoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Npolimorfismo.test.PolimorfismoTest" />
+    <configuration name="MultiplasRuntimeExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Oexception.runtimeexception.test.MultiplasRuntimeExceptionTest" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Npolimorfismo.test.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.Oexception.runtimeexception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,19 +388,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PolimorfismoTest" />
       <item itemvalue="Application.DAOTest" />
       <item itemvalue="Application.ErrorTest" />
       <item itemvalue="Application.RuntimeExceptionTest" />
       <item itemvalue="Application.CheckedExceptionTest" />
+      <item itemvalue="Application.MultiplasRuntimeExceptionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplasRuntimeExceptionTest" />
         <item itemvalue="Application.CheckedExceptionTest" />
         <item itemvalue="Application.RuntimeExceptionTest" />
         <item itemvalue="Application.ErrorTest" />
         <item itemvalue="Application.DAOTest" />
-        <item itemvalue="Application.PolimorfismoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -702,7 +723,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527692785802</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Bloco Finally.">
+      <created>1527781288300</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1527781288300</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -759,19 +787,10 @@
     <MESSAGE value="Polimorfismo, parte 3, casting de objetos." />
     <MESSAGE value="Exceptions, parte 2." />
     <MESSAGE value="Exceptions, parte 3." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions, parte 3." />
+    <MESSAGE value="Bloco Finally." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bloco Finally." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1123,8 +1142,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="255">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
