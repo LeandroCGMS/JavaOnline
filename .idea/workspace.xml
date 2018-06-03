@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc41eab2-04ff-47b1-be06-59c4f1e274fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CustomExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/customexception/LoginInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/SobrescristaComExceptionsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,11 +44,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomExceptionTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CustomExceptionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CustomExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Funcionario.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Funcionario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SobrescristaComExceptionsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/SobrescristaComExceptionsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pessoa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Pessoa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,9 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Local.java" />
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/test/AssociacaoTest.java" />
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Professor.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Aluno.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Seminario.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/classes/Endereco.java" />
@@ -138,6 +172,9 @@
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/TryWithResourcesTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/customexception/LoginInvalidoException.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CustomExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/SobrescristaComExceptionsTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Funcionario.java" />
       </list>
     </option>
   </component>
@@ -709,21 +746,28 @@
       <option name="project" value="LOCAL" />
       <updated>1528038205536</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Exceptions customizadas.">
+      <created>1528039183251</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1528039183251</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1360" height="734" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3260135" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36261982" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36261982" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
@@ -741,7 +785,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3260135" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3260135" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -769,28 +812,10 @@
     <MESSAGE value="Bloco Finally." />
     <MESSAGE value="Tratamento de Múltiplas Exceções." />
     <MESSAGE value="Try with resources." />
-    <option name="LAST_COMMIT_MESSAGE" value="Try with resources." />
+    <MESSAGE value="Exceptions customizadas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions customizadas." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Endereco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicio_Diagrama_de_Classes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Regras do Exercicio de Diagramas">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Aluno.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
@@ -1132,7 +1157,37 @@
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CustomExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/SobrescristaComExceptionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
