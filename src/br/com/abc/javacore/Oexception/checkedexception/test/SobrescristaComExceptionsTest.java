@@ -10,11 +10,11 @@ public class SobrescristaComExceptionsTest {
     public static void main(String[] args) {
         Funcionario f = new Funcionario();
         Pessoa p = new Pessoa();
-        try {
-            f.salvar();
-        } catch (LoginInvalidoException e) {
-            e.printStackTrace();
-        }
+//        try {
+//            //f.salvar();
+////        } catch (LoginInvalidoException e) {
+////            e.printStackTrace();
+////        }
 
     }
 }
