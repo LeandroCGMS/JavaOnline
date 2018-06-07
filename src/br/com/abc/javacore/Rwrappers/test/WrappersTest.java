@@ -13,12 +13,27 @@ public class WrappersTest {
 
         Byte byteWrapper = 1;
         Short shortWrapper = 1;
-        Integer intWrapper = 1;
-        Long longWrapper = 10L;
-        Float floatWrapper = 10f;
+        Integer intWrapper = new Integer("10");
+        Long longWrapper = Long.valueOf("10");
+        Float floatWrapper = new Float("10");
         Double doubleWrapper = 10D;
-        Character charWrapper = 'A';
-        Boolean booleanWrapper = true;
+        Character charWrapper = new Character('A');
+        Boolean booleanWrapper = new Boolean("tRUe");
+
+        String valor = "10";
+        float f = Float.parseFloat(valor);
+        System.out.println(f);
+
+        System.out.println(booleanWrapper);
+
+        int i = intWrapper;
+
+        System.out.println(Character.isDigit('9'));
+        System.out.println(Character.isLetter('A'));
+        System.out.println(Character.isLetterOrDigit('#'));
+        System.out.println(Character.isUpperCase('A'));
+        System.out.println(Character.isLowerCase('A'));
+        System.out.println(Character.toUpperCase('a'));
 
 
     }
