@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc41eab2-04ff-47b1-be06-59c4f1e274fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringPerformanceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Rwrappers/test/WrappersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Rwrappers/test/WrappersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,17 +76,26 @@
       <file leaf-file-name="WrappersTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Rwrappers/test/WrappersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
+            <state relative-caret-position="409">
               <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="270">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringPerformanceTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringPerformanceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -115,15 +124,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leitor2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Leitor2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -141,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/test/Funcionario2.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/classes/Funcionario.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/classes/Pessoa.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/test/HerancaTest.java" />
@@ -192,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Passertions/test/AssertTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Rwrappers/test/WrappersTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringPerformanceTest.java" />
       </list>
     </option>
   </component>
@@ -208,6 +208,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,39 +241,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="abc" type="462c0819:PsiDirectoryNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Passertions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="Passertions" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringTest">
+  <component name="RunManager" selected="Application.StringPerformanceTest">
     <configuration name="AssertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Passertions.test.AssertTest" />
       <module name="JavaOnline" />
@@ -320,8 +295,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Sstrings.test.StringTest" />
+    <configuration name="StringPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Sstrings.test.StringPerformanceTest" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -331,13 +306,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TryWithResourcesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Oexception.checkedexception.test.TryWithResourcesTest" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Sstrings.test.StringTest" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Oexception.checkedexception.test.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.Sstrings.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -395,19 +370,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TryWithResourcesTest" />
       <item itemvalue="Application.CustomExceptionTest" />
       <item itemvalue="Application.AssertTest" />
       <item itemvalue="Application.WrappersTest" />
       <item itemvalue="Application.StringTest" />
+      <item itemvalue="Application.StringPerformanceTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPerformanceTest" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.WrappersTest" />
         <item itemvalue="Application.AssertTest" />
         <item itemvalue="Application.CustomExceptionTest" />
-        <item itemvalue="Application.TryWithResourcesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -421,13 +396,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523319518342</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Exercícios.">
-      <created>1523911543592</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1523911543592</updated>
     </task>
     <task id="LOCAL-00003" summary="Exercícios.">
       <created>1523911573460</created>
@@ -765,7 +733,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528216795632</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="79 e 80.">
+      <created>1528331376242</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1528331376242</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -827,16 +802,10 @@
     <MESSAGE value="Exceptions customizadas." />
     <MESSAGE value="Sobrescrita com exception." />
     <MESSAGE value="Assertivas e Classes Wrappers." />
-    <option name="LAST_COMMIT_MESSAGE" value="Assertivas e Classes Wrappers." />
+    <MESSAGE value="79 e 80." />
+    <option name="LAST_COMMIT_MESSAGE" value="79 e 80." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Seminario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Local.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1193,15 +1162,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Rwrappers/test/WrappersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
+        <state relative-caret-position="409">
           <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="270">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringPerformanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
