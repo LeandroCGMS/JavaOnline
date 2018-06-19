@@ -2,124 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc41eab2-04ff-47b1-be06-59c4f1e274fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/NumberFormatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/SimpleDateFormatTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Uexpressoesregulares/test/ExpressoesRegularesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_Diagrama_de_Classes" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_Diagrama_de_Classes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_.patch" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_.patch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaOnline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOnline.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/ImprimindoVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/ImprimindoVariaveis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/arrays/Arrays6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ControleFluxo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExerRelatorioDois.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExerRelatorioDois.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExerTiposVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExerTiposVariaveis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExercicioControleFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExercicioControleFluxo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExercicioControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExercicioControleFluxo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExercicioControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/controlefluxo/ExercicioControleFluxo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/operadores/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/operadores/Operadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/operadores/OperadoresDeAtribuicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/operadores/OperadoresDeAtribuicao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/operadores/OperadoresDeComparacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/operadores/OperadoresDeComparacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/introducao/operadores/OperadoresLogicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/introducao/operadores/OperadoresLogicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/classes/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/classes/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/classes/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/classes/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/classes/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/classes/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/test/CarroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/test/CarroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/test/EstudanteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/test/EstudanteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/test/ProfessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Aintroducaoclasses/test/ProfessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/classes/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/classes/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/classes/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/classes/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/classes/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/classes/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/CalculadoraTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/CalculadoraTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/EstudanteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/EstudanteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/ParametrosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/ParametrosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/ProfessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Bintroducaometodos/teste/ProfessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Csobrecargametodos/classes/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Csobrecargametodos/classes/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Csobrecargametodos/test/FuncionarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Csobrecargametodos/test/FuncionarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Dsobrecargaconstrutores/classes/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Dsobrecargaconstrutores/classes/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Dsobrecargaconstrutores/test/EstudanteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Dsobrecargaconstrutores/test/EstudanteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Eblocodeinicializacao/classes/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Eblocodeinicializacao/classes/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Eblocodeinicializacao/test/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Eblocodeinicializacao/test/ClienteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/classes/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/CarroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Fmodificadorestatico/test/ClienteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Departamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/DiagramaClassesUmbrello.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/DiagramaClassesUmbrello.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Local.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Local.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Seminario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/ExerDiagramaClasses/Seminario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Regras do Exercicio de Diagramas" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/classes/Regras do Exercicio de Diagramas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/test/AssociacaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Gassociacao/test/AssociacaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/classes/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/classes/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/classes/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/classes/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/classes/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/classes/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/test/HerancaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Hheranca/test/HerancaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Isobrescrita/classes/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Isobrescrita/classes/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Isobrescrita/test/PessoaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Isobrescrita/test/PessoaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Comprador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Comprador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Subaru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Subaru.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/test/CarroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/test/CarroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/EnumeracaoUML.asta" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/EnumeracaoUML.asta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/classes/Vendedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/test/FuncionarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Lclassesabstratas/test/FuncionarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/classes/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/classes/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/classes/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/classes/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/classes/Transportavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/classes/Transportavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/classes/Tributavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/classes/Tributavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/test/TesteProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Minterfaces/test/TesteProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/ArquivoDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/ArquivoDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/DatabaseDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/DatabaseDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/GenericDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/GenericDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/RelatorioPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/RelatorioPagamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/classes/Vendedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/DAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/DAOTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/PolimorfismoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Npolimorfismo/test/PolimorfismoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Leitor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Leitor1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Leitor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Leitor2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/classes/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CheckedExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CustomExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/CustomExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/SobrescristaComExceptionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/SobrescristaComExceptionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/TryWithResourcesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/checkedexception/test/TryWithResourcesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/customexception/LoginInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/customexception/LoginInvalidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/error/test/ErrorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/error/test/ErrorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/MultiplasRuntimeExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Oexception/runtimeexception/test/RuntimeExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Passertions/test/AssertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Passertions/test/AssertTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Rwrappers/test/WrappersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Rwrappers/test/WrappersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringBuilderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringPerformanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringPerformanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/DateFormatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/DateFormatTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/LocaleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/LocaleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/ManipulacaoDeDatasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/ManipulacaoDeDatasTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,108 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AssertTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Passertions/test/AssertTest.java">
+      <file leaf-file-name="ExpressoesRegularesTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Uexpressoesregulares/test/ExpressoesRegularesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WrappersTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Rwrappers/test/WrappersTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringPerformanceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringPerformanceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringBuilderTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Sstrings/test/StringBuilderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ManipulacaoDeDatasTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/ManipulacaoDeDatasTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DateFormatTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/DateFormatTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LocaleTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/LocaleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberFormatTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/NumberFormatTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleDateFormatTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/SimpleDateFormatTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+            <state relative-caret-position="180">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -257,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Carro.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/Cliente.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/test/ClienteTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Kenum/classes/TipoCliente.java" />
@@ -308,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/TesteVisibilidadeTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/NumberFormatTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/SimpleDateFormatTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/abc/javacore/Uexpressoesregulares/test/ExpressoesRegularesTest.java" />
       </list>
     </option>
   </component>
@@ -323,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -358,19 +144,12 @@
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abc" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,14 +174,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleDateFormatTest">
-    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Tdatas.test.DateFormatTest" />
+  <component name="RunManager" selected="Application.ExpressoesRegularesTest">
+    <configuration name="ExpressoesRegularesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Uexpressoesregulares.test.ExpressoesRegularesTest" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Tdatas.test.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.Uexpressoesregulares.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,19 +272,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DateFormatTest" />
       <item itemvalue="Application.LocaleTest" />
       <item itemvalue="Application.TesteVisibilidadeTest" />
       <item itemvalue="Application.NumberFormatTest" />
       <item itemvalue="Application.SimpleDateFormatTest" />
+      <item itemvalue="Application.ExpressoesRegularesTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExpressoesRegularesTest" />
         <item itemvalue="Application.SimpleDateFormatTest" />
         <item itemvalue="Application.NumberFormatTest" />
         <item itemvalue="Application.TesteVisibilidadeTest" />
         <item itemvalue="Application.LocaleTest" />
-        <item itemvalue="Application.DateFormatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -519,13 +298,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523319518342</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Exercícios.">
-      <created>1524840106651</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1524840106651</updated>
     </task>
     <task id="LOCAL-00007" summary="Exercícios.">
       <created>1524957658193</created>
@@ -863,12 +635,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528817553984</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="88 e 89.">
+      <created>1529026859043</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1529026859044</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1360" height="734" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -878,12 +656,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36231884" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36231884" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24632353" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24632353" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -902,7 +680,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Herança." />
     <MESSAGE value="Modificador Protected." />
     <MESSAGE value="Sequências de Inicializações de Blocos em superclasses e classes." />
     <MESSAGE value="Sobrescrita de métodos." />
@@ -927,16 +704,10 @@
     <MESSAGE value="81 e 82." />
     <MESSAGE value="83 e 84." />
     <MESSAGE value="85, 86 e 87." />
-    <option name="LAST_COMMIT_MESSAGE" value="85, 86 e 87." />
+    <MESSAGE value="88 e 89." />
+    <option name="LAST_COMMIT_MESSAGE" value="88 e 89." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/classes/Comprador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Jmodificadorfinal/test/CarroTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1262,36 +1033,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/TesteVisibilidade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/TesteVisibilidadeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/TesteVisibilidade.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/TesteVisibilidadeTest.java" />
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/LocaleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
+        <state relative-caret-position="450">
           <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1301,7 +1047,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Tdatas/test/NumberFormatTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="405">
           <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1313,6 +1059,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Uexpressoesregulares/test/ExpressoesRegularesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
