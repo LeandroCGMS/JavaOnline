@@ -11,16 +11,14 @@ public class ExpressoesRegularesTest {
         // \S - caractere que não é branco
         // \w - caracteres de palavras: a-z A-Z, dígitos de underlines
         // \W - tudo o que não for caractere de palavra
-        String regex = "\\W";
-        String texto = "hab127@abf asdfa s123@#456\r_____ ";
+        String regex = "0[xX][0-9a-fA-F]";
+        String texto = "12 0x 0X 0xFFABC 0x10G 0x1";
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(texto);
         System.out.println("Texto: " + texto);
         System.out.println("Índice: 0123456789");
         System.out.println("Expressão: " + matcher.pattern());
         System.out.println("Posições encontradas: ");
-        while(matcher.find()) {
-            System.out.print(matcher.start() + " ");
-        }
+        while(matcher.find()) System.out.println(matcher.start() + " " + matcher.group());
     }
 }
